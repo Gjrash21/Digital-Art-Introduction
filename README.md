@@ -1,4 +1,4 @@
-
+# Introduction to Digital Art
 
 Welcome to this project about digital art!
 
